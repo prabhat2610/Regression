@@ -1,4 +1,6 @@
 numpy
 pandas
 Flask
--e .   # this is the command that links requirements.txt to setup.py
+scikit-learn
+seaborn
+-e .                   # this is the command that links requirements.txt to setup.py
